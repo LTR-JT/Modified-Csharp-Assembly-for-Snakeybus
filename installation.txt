@@ -1,0 +1,2 @@
+Installation
+Drag and drop the file in steamapps\common\Snakeybus\snakeybus_Data\Managed and replace files
